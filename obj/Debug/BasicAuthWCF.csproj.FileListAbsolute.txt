@@ -1,0 +1,6 @@
+F:\Workspace\POC\General\BasicAuthWCF\bin\BasicAuthWCF.dll.config
+F:\Workspace\POC\General\BasicAuthWCF\bin\BasicAuthWCF.dll
+F:\Workspace\POC\General\BasicAuthWCF\bin\BasicAuthWCF.pdb
+F:\Workspace\POC\General\BasicAuthWCF\obj\Debug\BasicAuthWCF.csprojResolveAssemblyReference.cache
+F:\Workspace\POC\General\BasicAuthWCF\obj\Debug\BasicAuthWCF.dll
+F:\Workspace\POC\General\BasicAuthWCF\obj\Debug\BasicAuthWCF.pdb
